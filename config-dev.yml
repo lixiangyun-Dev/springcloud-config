@@ -1,2 +1,2 @@
-server:
-  port: 9081
+config:
+  info: "springCloud-dev"
